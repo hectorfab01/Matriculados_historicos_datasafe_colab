@@ -1,4 +1,4 @@
-📊 Proyecto: Análisis de Matriculados Históricos – Universidad del Quindío
+📊 PROYECTO: ANÁLISIS MATRICULADOS HISTORICOS 
 
 Este proyecto se basa en la base de datos pública “MATRICULADOS HISTÓRICO”, suministrada por la Universidad del Quindío y disponible en el portal de Datos Abiertos del Gobierno de Colombia (última actualización: abril 2024).
 
